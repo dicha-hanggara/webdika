@@ -1,0 +1,21 @@
+{
+    "name": "Dicha Hanggara",
+    "short_name": "DCH",
+    "start_url": "/index.php",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "icons": [
+        {
+            "src": "/cdn/assets/images/core/dh_logo_main.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/cdn/assets/images/core/dh_logo_main_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
